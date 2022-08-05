@@ -1,0 +1,20 @@
+{
+  "01d":"\u2600\uFE0F",
+  "02d":"\uD83C\uDF24\uFE0F",
+  "03d":"\u2601\uFE0F",
+  "04d":"\uD83C\uDF25\uFE0F \u2601\uFE0F",
+  "09d":"\uD83C\uDF27\uFE0F",
+  "10d":"\uD83C\uDF26\uFE0F",
+  "11d":"\u26C8\uFE0F",
+  "13d":"\uD83C\uDF28\uFE0F",
+  "50d":"\uD83C\uDF2B\uFE0F",
+  "01n":"\uD83C\uDF11",
+  "02n":"\uD83C\uDF11 \u2601\uFE0F",
+  "03n":"\u2601\uFE0F",
+  "04n":"\u2601\uFE0F \u2601\uFE0F",
+  "09n":"\uD83C\uDF27\uFE0F",
+  "10n":"\u2614",
+  "11n":"\u26C8\uFE0F",
+  "13n":"\uD83C\uDF28\uFE0F",
+  "50n":"\uD83C\uDF2B\uFE0F"
+}
